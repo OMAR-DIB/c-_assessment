@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\TEEEE\\c#program\\StudentManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD5222E-9781-470F-9744-2207AB13BEF9}|StudentManagementSystem.API\\StudentManagementSystem.API.csproj|c:\\teeee\\c#program\\studentmanagementsystem\\studentmanagementsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD5222E-9781-470F-9744-2207AB13BEF9}|StudentManagementSystem.API\\StudentManagementSystem.API.csproj|solutionrelative:studentmanagementsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{258A792C-12C0-4D7D-B361-C6D4E5895B73}|StudentManagementSystem.Data\\StudentManagementSystem.Data.csproj|c:\\teeee\\c#program\\studentmanagementsystem\\studentmanagementsystem.data\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{258A792C-12C0-4D7D-B361-C6D4E5895B73}|StudentManagementSystem.Data\\StudentManagementSystem.Data.csproj|solutionrelative:studentmanagementsystem.data\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD5222E-9781-470F-9744-2207AB13BEF9}|StudentManagementSystem.API\\StudentManagementSystem.API.csproj|c:\\teeee\\c#program\\studentmanagementsystem\\studentmanagementsystem.api\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD5222E-9781-470F-9744-2207AB13BEF9}|StudentManagementSystem.API\\StudentManagementSystem.API.csproj|solutionrelative:studentmanagementsystem.api\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD5222E-9781-470F-9744-2207AB13BEF9}|StudentManagementSystem.API\\StudentManagementSystem.API.csproj|c:\\teeee\\c#program\\studentmanagementsystem\\studentmanagementsystem.api\\middlewares\\studentmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD5222E-9781-470F-9744-2207AB13BEF9}|StudentManagementSystem.API\\StudentManagementSystem.API.csproj|solutionrelative:studentmanagementsystem.api\\middlewares\\studentmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD5222E-9781-470F-9744-2207AB13BEF9}|StudentManagementSystem.API\\StudentManagementSystem.API.csproj|c:\\teeee\\c#program\\studentmanagementsystem\\studentmanagementsystem.api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD5222E-9781-470F-9744-2207AB13BEF9}|StudentManagementSystem.API\\StudentManagementSystem.API.csproj|solutionrelative:studentmanagementsystem.api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{258A792C-12C0-4D7D-B361-C6D4E5895B73}|StudentManagementSystem.Data\\StudentManagementSystem.Data.csproj|c:\\teeee\\c#program\\studentmanagementsystem\\studentmanagementsystem.data\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{258A792C-12C0-4D7D-B361-C6D4E5895B73}|StudentManagementSystem.Data\\StudentManagementSystem.Data.csproj|solutionrelative:studentmanagementsystem.data\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{258A792C-12C0-4D7D-B361-C6D4E5895B73}|StudentManagementSystem.Data\\StudentManagementSystem.Data.csproj|c:\\teeee\\c#program\\studentmanagementsystem\\studentmanagementsystem.data\\entities\\school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{258A792C-12C0-4D7D-B361-C6D4E5895B73}|StudentManagementSystem.Data\\StudentManagementSystem.Data.csproj|solutionrelative:studentmanagementsystem.data\\entities\\school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{258A792C-12C0-4D7D-B361-C6D4E5895B73}|StudentManagementSystem.Data\\StudentManagementSystem.Data.csproj|c:\\teeee\\c#program\\studentmanagementsystem\\studentmanagementsystem.data\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{258A792C-12C0-4D7D-B361-C6D4E5895B73}|StudentManagementSystem.Data\\StudentManagementSystem.Data.csproj|solutionrelative:studentmanagementsystem.data\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD5222E-9781-470F-9744-2207AB13BEF9}|StudentManagementSystem.API\\StudentManagementSystem.API.csproj|c:\\teeee\\c#program\\studentmanagementsystem\\studentmanagementsystem.api\\mapping\\studentmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD5222E-9781-470F-9744-2207AB13BEF9}|StudentManagementSystem.API\\StudentManagementSystem.API.csproj|solutionrelative:studentmanagementsystem.api\\mapping\\studentmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD5222E-9781-470F-9744-2207AB13BEF9}|StudentManagementSystem.API\\StudentManagementSystem.API.csproj|c:\\teeee\\c#program\\studentmanagementsystem\\studentmanagementsystem.api\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD5222E-9781-470F-9744-2207AB13BEF9}|StudentManagementSystem.API\\StudentManagementSystem.API.csproj|solutionrelative:studentmanagementsystem.api\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD5222E-9781-470F-9744-2207AB13BEF9}|StudentManagementSystem.API\\StudentManagementSystem.API.csproj|c:\\teeee\\c#program\\studentmanagementsystem\\studentmanagementsystem.api\\models\\responsemodels\\studentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD5222E-9781-470F-9744-2207AB13BEF9}|StudentManagementSystem.API\\StudentManagementSystem.API.csproj|solutionrelative:studentmanagementsystem.api\\models\\responsemodels\\studentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD5222E-9781-470F-9744-2207AB13BEF9}|StudentManagementSystem.API\\StudentManagementSystem.API.csproj|c:\\teeee\\c#program\\studentmanagementsystem\\studentmanagementsystem.api\\models\\requestmodels\\updatestudentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD5222E-9781-470F-9744-2207AB13BEF9}|StudentManagementSystem.API\\StudentManagementSystem.API.csproj|solutionrelative:studentmanagementsystem.api\\models\\requestmodels\\updatestudentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD5222E-9781-470F-9744-2207AB13BEF9}|StudentManagementSystem.API\\StudentManagementSystem.API.csproj|c:\\teeee\\c#program\\studentmanagementsystem\\studentmanagementsystem.api\\models\\requestmodels\\createstudentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD5222E-9781-470F-9744-2207AB13BEF9}|StudentManagementSystem.API\\StudentManagementSystem.API.csproj|solutionrelative:studentmanagementsystem.api\\models\\requestmodels\\createstudentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{258A792C-12C0-4D7D-B361-C6D4E5895B73}|StudentManagementSystem.Data\\StudentManagementSystem.Data.csproj|c:\\teeee\\c#program\\studentmanagementsystem\\studentmanagementsystem.data\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{258A792C-12C0-4D7D-B361-C6D4E5895B73}|StudentManagementSystem.Data\\StudentManagementSystem.Data.csproj|solutionrelative:studentmanagementsystem.data\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentMiddleware.cs",
+              "DocumentMoniker": "C:\\TEEEE\\c#program\\StudentManagementSystem\\StudentManagementSystem.API\\Middlewares\\StudentMiddleware.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.API\\Middlewares\\StudentMiddleware.cs",
+              "ToolTip": "C:\\TEEEE\\c#program\\StudentManagementSystem\\StudentManagementSystem.API\\Middlewares\\StudentMiddleware.cs",
+              "RelativeToolTip": "StudentManagementSystem.API\\Middlewares\\StudentMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T16:12:18.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\TEEEE\\c#program\\StudentManagementSystem\\StudentManagementSystem.Data\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Data\\Repository\\Repository.cs",
+              "ToolTip": "C:\\TEEEE\\c#program\\StudentManagementSystem\\StudentManagementSystem.Data\\Repository\\Repository.cs",
+              "RelativeToolTip": "StudentManagementSystem.Data\\Repository\\Repository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T13:26:24.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\TEEEE\\c#program\\StudentManagementSystem\\StudentManagementSystem.API\\Services\\IStudentService.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.API\\Services\\IStudentService.cs",
+              "ToolTip": "C:\\TEEEE\\c#program\\StudentManagementSystem\\StudentManagementSystem.API\\Services\\IStudentService.cs",
+              "RelativeToolTip": "StudentManagementSystem.API\\Services\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T13:19:33.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentMapping.cs",
+              "DocumentMoniker": "C:\\TEEEE\\c#program\\StudentManagementSystem\\StudentManagementSystem.API\\Mapping\\StudentMapping.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.API\\Mapping\\StudentMapping.cs",
+              "ToolTip": "C:\\TEEEE\\c#program\\StudentManagementSystem\\StudentManagementSystem.API\\Mapping\\StudentMapping.cs",
+              "RelativeToolTip": "StudentManagementSystem.API\\Mapping\\StudentMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T13:23:13.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\TEEEE\\c#program\\StudentManagementSystem\\StudentManagementSystem.API\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.API\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\TEEEE\\c#program\\StudentManagementSystem\\StudentManagementSystem.API\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentManagementSystem.API\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T13:21:36.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\TEEEE\\c#program\\StudentManagementSystem\\StudentManagementSystem.API\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.API\\Program.cs",
+              "ToolTip": "C:\\TEEEE\\c#program\\StudentManagementSystem\\StudentManagementSystem.API\\Program.cs*",
+              "RelativeToolTip": "StudentManagementSystem.API\\Program.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwBgAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T13:20:48.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\TEEEE\\c#program\\StudentManagementSystem\\StudentManagementSystem.Data\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Data\\Entities\\Student.cs",
+              "ToolTip": "C:\\TEEEE\\c#program\\StudentManagementSystem\\StudentManagementSystem.Data\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentManagementSystem.Data\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T13:25:51.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "School.cs",
+              "DocumentMoniker": "C:\\TEEEE\\c#program\\StudentManagementSystem\\StudentManagementSystem.Data\\Entities\\School.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Data\\Entities\\School.cs",
+              "ToolTip": "C:\\TEEEE\\c#program\\StudentManagementSystem\\StudentManagementSystem.Data\\Entities\\School.cs",
+              "RelativeToolTip": "StudentManagementSystem.Data\\Entities\\School.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T13:25:39.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\TEEEE\\c#program\\StudentManagementSystem\\StudentManagementSystem.Data\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Data\\Repository\\IRepository.cs",
+              "ToolTip": "C:\\TEEEE\\c#program\\StudentManagementSystem\\StudentManagementSystem.Data\\Repository\\IRepository.cs",
+              "RelativeToolTip": "StudentManagementSystem.Data\\Repository\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T13:26:21.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\TEEEE\\c#program\\StudentManagementSystem\\StudentManagementSystem.API\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.API\\Services\\StudentService.cs",
+              "ToolTip": "C:\\TEEEE\\c#program\\StudentManagementSystem\\StudentManagementSystem.API\\Services\\StudentService.cs",
+              "RelativeToolTip": "StudentManagementSystem.API\\Services\\StudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T13:19:21.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentResponse.cs",
+              "DocumentMoniker": "C:\\TEEEE\\c#program\\StudentManagementSystem\\StudentManagementSystem.API\\Models\\ResponseModels\\StudentResponse.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.API\\Models\\ResponseModels\\StudentResponse.cs",
+              "ToolTip": "C:\\TEEEE\\c#program\\StudentManagementSystem\\StudentManagementSystem.API\\Models\\ResponseModels\\StudentResponse.cs",
+              "RelativeToolTip": "StudentManagementSystem.API\\Models\\ResponseModels\\StudentResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T13:23:50.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UpdateStudentRequest.cs",
+              "DocumentMoniker": "C:\\TEEEE\\c#program\\StudentManagementSystem\\StudentManagementSystem.API\\Models\\RequestModels\\UpdateStudentRequest.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.API\\Models\\RequestModels\\UpdateStudentRequest.cs",
+              "ToolTip": "C:\\TEEEE\\c#program\\StudentManagementSystem\\StudentManagementSystem.API\\Models\\RequestModels\\UpdateStudentRequest.cs",
+              "RelativeToolTip": "StudentManagementSystem.API\\Models\\RequestModels\\UpdateStudentRequest.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T13:40:17.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\TEEEE\\c#program\\StudentManagementSystem\\StudentManagementSystem.Data\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.Data\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\TEEEE\\c#program\\StudentManagementSystem\\StudentManagementSystem.Data\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "StudentManagementSystem.Data\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T13:25:18.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateStudentRequest.cs",
+              "DocumentMoniker": "C:\\TEEEE\\c#program\\StudentManagementSystem\\StudentManagementSystem.API\\Models\\RequestModels\\CreateStudentRequest.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem.API\\Models\\RequestModels\\CreateStudentRequest.cs",
+              "ToolTip": "C:\\TEEEE\\c#program\\StudentManagementSystem\\StudentManagementSystem.API\\Models\\RequestModels\\CreateStudentRequest.cs",
+              "RelativeToolTip": "StudentManagementSystem.API\\Models\\RequestModels\\CreateStudentRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T13:23:26.565Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

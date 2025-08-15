@@ -20,16 +20,7 @@ namespace StudentManagementSystem.API
             builder.Services.AddControllers();
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
-
-            // Register repositories
-            builder.Services.AddSingleton<IRepository<Student>, Repository<Student>>();
-            builder.Services.AddSingleton<IRepository<School>, Repository<School>>();
-
-            // Register services
-            builder.Services.AddScoped<IStudentService, StudentService>();
-            //builder.Services.AddScoped<IStudentService, StudentService>();
-            //builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
-            // Add services to the container.
+            
 
             builder.Services.AddControllers();
             // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi

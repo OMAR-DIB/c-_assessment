@@ -45,3 +45,4 @@ C:\TEEEE\c#program\StudentManagementSystem\StudentManagementSystem.API\obj\Debug
 C:\TEEEE\c#program\StudentManagementSystem\StudentManagementSystem.API\obj\Debug\net9.0\StudentManagementSystem.API.genruntimeconfig.cache
 C:\TEEEE\c#program\StudentManagementSystem\StudentManagementSystem.API\obj\Debug\net9.0\ref\StudentManagementSystem.API.dll
 C:\TEEEE\c#program\StudentManagementSystem\StudentManagementSystem.API\bin\Debug\net9.0\NLog.dll
+C:\TEEEE\c#program\StudentManagementSystem\StudentManagementSystem.API\obj\Debug\net9.0\StudentManagementSystem.API.sourcelink.json
