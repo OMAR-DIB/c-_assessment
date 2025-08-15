@@ -1,0 +1,12 @@
+C:\TEEEE\c#program\StudentManagementSystem\StudentManagementSystem.Data\bin\Debug\net9.0\StudentManagementSystem.Data.deps.json
+C:\TEEEE\c#program\StudentManagementSystem\StudentManagementSystem.Data\bin\Debug\net9.0\StudentManagementSystem.Data.dll
+C:\TEEEE\c#program\StudentManagementSystem\StudentManagementSystem.Data\bin\Debug\net9.0\StudentManagementSystem.Data.pdb
+C:\TEEEE\c#program\StudentManagementSystem\StudentManagementSystem.Data\obj\Debug\net9.0\StudentManagementSystem.Data.csproj.AssemblyReference.cache
+C:\TEEEE\c#program\StudentManagementSystem\StudentManagementSystem.Data\obj\Debug\net9.0\StudentManagementSystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\TEEEE\c#program\StudentManagementSystem\StudentManagementSystem.Data\obj\Debug\net9.0\StudentManagementSystem.Data.AssemblyInfoInputs.cache
+C:\TEEEE\c#program\StudentManagementSystem\StudentManagementSystem.Data\obj\Debug\net9.0\StudentManagementSystem.Data.AssemblyInfo.cs
+C:\TEEEE\c#program\StudentManagementSystem\StudentManagementSystem.Data\obj\Debug\net9.0\StudentManagementSystem.Data.csproj.CoreCompileInputs.cache
+C:\TEEEE\c#program\StudentManagementSystem\StudentManagementSystem.Data\obj\Debug\net9.0\StudentManagementSystem.Data.dll
+C:\TEEEE\c#program\StudentManagementSystem\StudentManagementSystem.Data\obj\Debug\net9.0\refint\StudentManagementSystem.Data.dll
+C:\TEEEE\c#program\StudentManagementSystem\StudentManagementSystem.Data\obj\Debug\net9.0\StudentManagementSystem.Data.pdb
+C:\TEEEE\c#program\StudentManagementSystem\StudentManagementSystem.Data\obj\Debug\net9.0\ref\StudentManagementSystem.Data.dll
